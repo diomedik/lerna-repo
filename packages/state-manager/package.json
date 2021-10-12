@@ -3,5 +3,6 @@
   "version": "1.0.2",
   "main": "index.js",
   "author": "Daniil Shvidziankou",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "b1fad35f69fd9160059b64ae89280593b616f2e4"
 }
