@@ -2,5 +2,9 @@
   "packages": [
     "packages/*"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://www.npmjs.com/~diomed"
+  },
   "version": "1.0.7"
 }
