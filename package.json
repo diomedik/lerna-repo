@@ -5,7 +5,10 @@
   },
   "version": "1.0.0",
   "description": "test repo",
-
+  "workspaces": [
+    "packages/*"
+  ],
+  "main": "index.js",
   "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
