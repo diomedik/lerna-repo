@@ -1,8 +1,8 @@
 {
-  "name": "@cyramoto/ssome-module",
+  "name": "@diomed/ssome-module",
   "version": "1.0.3",
   "main": "index.js",
   "author": "Daniil Shvidziankou",
-  "gitHead": "b1fad35f69fd9160059b64ae89280593b616f2e4",
+  "gitHead": "16cd8743cb8032a9b44c62868cbf309770c90b66",
   "license": "MIT"
 }
